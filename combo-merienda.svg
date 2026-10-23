@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300"><rect width="400" height="300" fill="#efe3cd"/><g transform="translate(-60 40) scale(0.72)">
+  <ellipse cx="200" cy="246" rx="125" ry="15.625" fill="#3b2417" opacity=".12"/>
+  <ellipse cx="200" cy="232" rx="112" ry="16" fill="#f0e4cf"/>
+  <path d="M278 138h14a26 26 0 0 1 0 52h-22" fill="none" stroke="#f7f4ea" stroke-width="13" stroke-linecap="round"/>
+  <path d="M120 120h160v42c0 40-34 68-80 68s-80-28-80-68z" fill="#f7f4ea"/>
+  <path d="M120 120h160v8c0 3-2 5-5 5H125c-3 0-5-2-5-5z" fill="#000" opacity=".05"/>
+  <ellipse cx="200" cy="121" rx="80" ry="13" fill="#e9dcc6"/>
+  <ellipse cx="200" cy="123" rx="72" ry="10" fill="#c58a2e"/>
+  
+  </g><g transform="translate(130 56) scale(0.62)">
+  <ellipse cx="200" cy="252" rx="105" ry="13.125" fill="#3b2417" opacity=".12"/>
+  <circle cx="200" cy="160" r="98" fill="#c98a4b"/>
+  <path d="M110 128a98 98 0 0 1 180-8" fill="none" stroke="#e8b673" stroke-width="9" stroke-linecap="round" opacity=".6"/>
+  <circle cx="200" cy="160" r="98" fill="none" stroke="#8a5224" stroke-width="5" opacity=".35"/>
+  <path d="M140 120l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(0 150 120)"/><path d="M205 105l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(29 215 105)"/><path d="M240 160l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(58 250 160)"/><path d="M170 170l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(87 180 170)"/><path d="M115 180l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(116 125 180)"/><path d="M215 215l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(145 225 215)"/><path d="M155 230l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(174 165 230)"/><path d="M252 118l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(203 262 118)"/><path d="M190 138l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(232 200 138)"/><path d="M130 150l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(261 140 150)"/><path d="M240 200l10-10 11 8-3 12-14 2z" fill="#3b2417" transform="rotate(290 250 200)"/></g></svg>

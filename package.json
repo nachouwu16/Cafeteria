@@ -1,0 +1,11 @@
+{
+  "name": "cafe-y-dulce-menu",
+  "version": "1.0.0",
+  "description": "Menú digital con estado de stock para Café & Dulce",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "python3 -m http.server 8080",
+    "imagenes": "node tools/generar-imagenes.js"
+  }
+}
